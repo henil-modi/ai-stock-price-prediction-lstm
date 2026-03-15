@@ -120,7 +120,7 @@ README.md → Project documentation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/ai-stock-price-prediction-lstm.git
+git clone https://github.com/henil-modi/ai-stock-price-prediction-lstm.git
 
 Install dependencies:
 
