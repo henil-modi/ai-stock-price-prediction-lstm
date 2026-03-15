@@ -108,5 +108,5 @@ This project demonstrates practical implementation of deep learning techniques f
 ## Author
 
 Henil Modi
-Engineering Student
-Interested in Artificial Intelligence, Cybersecurity, and Data Science.
+A student
+Interested in Artificial Intelligence, and Software development.
