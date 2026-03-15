@@ -21,11 +21,17 @@ The project covers the entire machine learning pipeline including data collectio
 ## Technologies Used
 
 Python
+
 TensorFlow / Keras
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Scikit-learn
+
 Yahoo Finance API (yfinance)
 
 ## Dataset
