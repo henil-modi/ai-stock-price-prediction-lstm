@@ -1,4 +1,14 @@
 # AI Stock Price Prediction using LSTM
+A deep learning project that predicts stock prices using Long Short-Term Memory (LSTM) neural networks trained on historical financial time-series data.
+
+
+## Key Highlights
+
+• Built a deep learning model using LSTM networks  
+• Implemented time-series forecasting for financial data  
+• Trained model on Apple (AAPL) historical stock prices  
+• Evaluated predictions using RMSE and MAE metrics  
+• Visualized stock trends, predictions, and prediction errors  
 
 This project demonstrates stock price prediction using a Long Short-Term Memory (LSTM) neural network, a deep learning architecture designed for time-series forecasting. The model is trained on historical Apple (AAPL) stock data obtained from Yahoo Finance to learn patterns in financial time-series data and generate future price predictions. Stock markets produce sequential data where each value depends on previous values, making LSTM networks particularly effective for modeling long-term dependencies and trends in stock prices.
 
@@ -110,3 +120,7 @@ This project demonstrates practical implementation of deep learning techniques f
 Henil Modi
 A student
 Interested in Artificial Intelligence, and Software development.
+
+## License
+
+This project is intended for educational and research purposes.
